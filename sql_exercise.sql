@@ -16,7 +16,6 @@ SELECT Max(birthDate) FROM users;
 -- 4. Колко юзъра са регистрирани с мейли от abv и колко от gmail и колко с
 -- различни от двата.
 
-
 SELECT count(email) FROM users
 WHERE email LIKE '%abv.bg' union
 SELECT count(email) FROM users
@@ -40,13 +39,13 @@ ORDER BY username asc, birthDate DESC;
 
 
 -- 7. Изкарайте всички потребители от базата, на които потребителското име
--- започва с.
+-- започва с "а".
 
 Select username from users where username LIKE 'a%';
 
 
 -- 8. Изкарайте всички потребители от базата, които съдържат
--- "а" username името си.
+-- "а" в username името си.
 
 Select username from users where username LIKE '%a%';
 
