@@ -1,4 +1,4 @@
-//Print my name
+//Print_my_name
 
 package homework;
 
@@ -11,7 +11,7 @@ public class First {
 Yanislav Angelov 
 ---------------------------------------------------------------------------------------------------------
 
-//Perimeter of triangle
+//Perimeter_of_triangle
 
 package homework;
 
@@ -29,7 +29,7 @@ public class Second {
 22  
 ---------------------------------------------------------------------------------------------------------
 
-//Area of triangle
+//Area_of_triangle
 
 
 package homework;
@@ -51,7 +51,7 @@ public class Third {
 25
 ---------------------------------------------------------------------------------------------------------
 
-//Pine tree
+//Pine_tree
 
 package homework;
 
@@ -135,4 +135,4 @@ public class Pine_tree {
     
     -----------------------------------------------------------------------------------------
     
-    //Quadratic
+ //Quadratic
