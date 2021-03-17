@@ -58,7 +58,7 @@ package homework;
 public class Pine_tree {
 
 		public static final int SEGMENTS = 4;
-		public static final int HEIGHT = 4;
+		public static final int HEIGHT = 8;
 		public static void main(String[] args)
 		{
 			makeTree();
