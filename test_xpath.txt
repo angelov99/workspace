@@ -1,4 +1,4 @@
-1. search xpath -   //*[@id="search-bar"]
+1. search xpath -   //*[@id='search-bar']
 2. search bar select -  //input[@id='search-bar']
 3. search result xpath - //a[contains(text(),'yani')]
 4. Follow button in search field -  //*[@class='btn btn-primary']  
